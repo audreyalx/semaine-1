@@ -30,7 +30,7 @@ Et l'informatique ? déjà pour avoir un aperçu global de ce qu'est le dévelop
 Ensuite je souhaiterai construire un vrai site pour [mon agence](http://www.eclaircice.fr) (vous voyez je ne peux pas laisser ça comme ça !) et un pour la partie consultante que je suis entrain de développer.
 Dans un an, je pense que mon agence sera bien lancée...(je l'espère...et je fais tout pour...) ce qui me libèrera du temps en journée et du coup je pourrai m'atteler à d'autres projets plutôt numériques...vous l'aurez deviné ;) !  
 
-####Pourquoi la formation Simplonline ?#### 
+####Pourquoi la formation Simplonline ?
 Pour sa philosophie et sa pédagogie...*apprendre* à apprendre...être *guidé* mais en étant *autonome*...l'*entraide* et les nombreux *exercices* d'application...
 Une première approche qui semble idéale !
 Est-ce-que le code va *vraiment* me plaire ? *étudiante, j'ai développer quelques pages en HTML, j'avais bien accroché...mais désormais...?*
